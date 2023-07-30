@@ -36,4 +36,4 @@ RUN chmod 755 /startup.sh
 EXPOSE 8900
 
 # 启动服务
-CMD  /luo.sh
+CMD  /startup.sh
